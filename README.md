@@ -5,7 +5,7 @@
 
 
 
-@@ (I WAS BORED lol) @@
+@@ (We Were.BORED lol) @@
 
 
 - Programs are free to use and modify
