@@ -5,10 +5,11 @@
 
 
 
-@@ (We Were.BORED lol) @@
+@@ (We Were BORED lol) @@
 
 
 - Programs are free to use and modify
 + Doubts can be asked as issues 
 @@ Share With Friends and help them 💖@@
+# will probably have spelling mistakes 😅 #
 ``` 
