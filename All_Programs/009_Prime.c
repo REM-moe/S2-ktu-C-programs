@@ -12,7 +12,7 @@ void main()
 			count = count++;
 		}
 	}
-	if (count>=2)
+	if (count>2)
 	{
 		printf("%d , is not a Prime Number \n",num);
 	}
